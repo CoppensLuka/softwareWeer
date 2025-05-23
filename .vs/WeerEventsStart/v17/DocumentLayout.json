@@ -1,0 +1,422 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\coppe\\downloads\\weerstart\\weerstart\\weereventsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\coppe\\downloads\\weerstart\\weerstart\\weereventsapi\\weerberichten\\weerberichtgenerators\\weerberichtgeneratorproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\weerberichten\\weerberichtgenerators\\weerberichtgeneratorproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\coppe\\downloads\\weerstart\\weerstart\\weereventsapi\\weerberichten\\weerberichtgenerators\\echteweerberichtgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\weerberichten\\weerberichtgenerators\\echteweerberichtgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\coppe\\downloads\\weerstart\\weerstart\\weereventsapi\\weerberichten\\weerberichtgenerators\\iweerberichtgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\weerberichten\\weerberichtgenerators\\iweerberichtgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\coppe\\downloads\\weerstart\\weerstart\\weereventsapi\\facade\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\facade\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\coppe\\downloads\\weerstart\\weerstart\\weereventsapi\\stations\\weerstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\stations\\weerstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\coppe\\downloads\\weerstart\\weerstart\\weereventsapi\\stations\\abstractweerstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\stations\\abstractweerstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\coppe\\downloads\\weerstart\\weerstart\\weereventsapi\\facade\\controllers\\domeincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\facade\\controllers\\domeincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\coppe\\downloads\\weerstart\\weerstart\\weereventsapi\\steden\\repositories\\istadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\steden\\repositories\\istadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\coppe\\downloads\\weerstart\\weerstart\\weereventsapi\\facade\\controllers\\idomeincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\facade\\controllers\\idomeincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\coppe\\downloads\\weerstart\\weerstart\\weereventsapi\\apicalls.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\apicalls.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\coppe\\downloads\\weerstart\\weerstart\\weereventsapi\\stations\\iweerstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\stations\\iweerstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\coppe\\downloads\\weerstart\\weerstart\\weereventsapi\\logging\\factories\\metingloggerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\logging\\factories\\metingloggerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\coppe\\downloads\\weerstart\\weerstart\\weereventsapi\\logging\\metinglogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\logging\\metinglogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\coppe\\downloads\\weerstart\\weerstart\\weereventsapi\\logging\\imetinglogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\logging\\imetinglogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\coppe\\downloads\\weerstart\\weerstart\\weereventsapi\\facade\\dto\\metingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\facade\\dto\\metingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\coppe\\downloads\\weerstart\\weerstart\\weereventsapi\\facade\\dto\\weerberichtdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\facade\\dto\\weerberichtdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\coppe\\downloads\\weerstart\\weerstart\\weereventsapi\\facade\\dto\\weerstationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\facade\\dto\\weerstationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\coppe\\downloads\\weerstart\\weerstart\\weereventsapi\\stations\\factories\\weerstationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\stations\\factories\\weerstationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\coppe\\downloads\\weerstart\\weerstart\\weereventsapi\\metingen\\meting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\metingen\\meting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\coppe\\downloads\\weerstart\\weerstart\\weereventsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\coppe\\downloads\\weerstart\\weerstart\\weereventsapi\\weerberichten\\weerbericht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\weerberichten\\weerbericht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\coppe\\downloads\\weerstart\\weerstart\\weereventsapi\\steden\\stad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\steden\\stad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\coppe\\downloads\\weerstart\\weerstart\\weereventsapi\\metingen\\eenheid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\metingen\\eenheid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|c:\\users\\coppe\\downloads\\weerstart\\weerstart\\weereventsapi\\weereventsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B6912D4-7D01-4116-9BAA-CFA76E93446D}|WeerEventsApi\\WeerEventsApi.csproj|solutionrelative:weereventsapi\\weereventsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EchteWeerberichtGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Weerberichten\\WeerberichtGenerators\\EchteWeerberichtGenerator.cs",
+              "RelativeDocumentMoniker": "WeerEventsApi\\Weerberichten\\WeerberichtGenerators\\EchteWeerberichtGenerator.cs",
+              "ToolTip": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Weerberichten\\WeerberichtGenerators\\EchteWeerberichtGenerator.cs",
+              "RelativeToolTip": "WeerEventsApi\\Weerberichten\\WeerberichtGenerators\\EchteWeerberichtGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:29:59.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IWeerberichtGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Weerberichten\\WeerberichtGenerators\\IWeerberichtGenerator.cs",
+              "RelativeDocumentMoniker": "WeerEventsApi\\Weerberichten\\WeerberichtGenerators\\IWeerberichtGenerator.cs",
+              "ToolTip": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Weerberichten\\WeerberichtGenerators\\IWeerberichtGenerator.cs",
+              "RelativeToolTip": "WeerEventsApi\\Weerberichten\\WeerberichtGenerators\\IWeerberichtGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:30:57.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeerStation.cs",
+              "DocumentMoniker": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Stations\\WeerStation.cs",
+              "RelativeDocumentMoniker": "WeerEventsApi\\Stations\\WeerStation.cs",
+              "ToolTip": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Stations\\WeerStation.cs",
+              "RelativeToolTip": "WeerEventsApi\\Stations\\WeerStation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T09:03:04.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Program.cs",
+              "RelativeDocumentMoniker": "WeerEventsApi\\Program.cs",
+              "ToolTip": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Program.cs",
+              "RelativeToolTip": "WeerEventsApi\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAEcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:08:38.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Facade\\Controllers\\ApiController.cs",
+              "RelativeDocumentMoniker": "WeerEventsApi\\Facade\\Controllers\\ApiController.cs",
+              "ToolTip": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Facade\\Controllers\\ApiController.cs",
+              "RelativeToolTip": "WeerEventsApi\\Facade\\Controllers\\ApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:16:17.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeerberichtGeneratorProxy.cs",
+              "DocumentMoniker": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Weerberichten\\WeerberichtGenerators\\WeerberichtGeneratorProxy.cs",
+              "RelativeDocumentMoniker": "WeerEventsApi\\Weerberichten\\WeerberichtGenerators\\WeerberichtGeneratorProxy.cs",
+              "ToolTip": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Weerberichten\\WeerberichtGenerators\\WeerberichtGeneratorProxy.cs",
+              "RelativeToolTip": "WeerEventsApi\\Weerberichten\\WeerberichtGenerators\\WeerberichtGeneratorProxy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:28:52.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AbstractWeerstation.cs",
+              "DocumentMoniker": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Stations\\AbstractWeerstation.cs",
+              "RelativeDocumentMoniker": "WeerEventsApi\\Stations\\AbstractWeerstation.cs",
+              "ToolTip": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Stations\\AbstractWeerstation.cs",
+              "RelativeToolTip": "WeerEventsApi\\Stations\\AbstractWeerstation.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwBMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:43:35.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DomeinController.cs",
+              "DocumentMoniker": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Facade\\Controllers\\DomeinController.cs",
+              "RelativeDocumentMoniker": "WeerEventsApi\\Facade\\Controllers\\DomeinController.cs",
+              "ToolTip": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Facade\\Controllers\\DomeinController.cs",
+              "RelativeToolTip": "WeerEventsApi\\Facade\\Controllers\\DomeinController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAhwFUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:33:04.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Steden\\Repositories\\IStadRepository.cs",
+              "RelativeDocumentMoniker": "WeerEventsApi\\Steden\\Repositories\\IStadRepository.cs",
+              "ToolTip": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Steden\\Repositories\\IStadRepository.cs",
+              "RelativeToolTip": "WeerEventsApi\\Steden\\Repositories\\IStadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:26:04.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDomeinController.cs",
+              "DocumentMoniker": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Facade\\Controllers\\IDomeinController.cs",
+              "RelativeDocumentMoniker": "WeerEventsApi\\Facade\\Controllers\\IDomeinController.cs",
+              "ToolTip": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Facade\\Controllers\\IDomeinController.cs",
+              "RelativeToolTip": "WeerEventsApi\\Facade\\Controllers\\IDomeinController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:14:45.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApiCalls.http",
+              "DocumentMoniker": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\ApiCalls.http",
+              "RelativeDocumentMoniker": "WeerEventsApi\\ApiCalls.http",
+              "ToolTip": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\ApiCalls.http",
+              "RelativeToolTip": "WeerEventsApi\\ApiCalls.http",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-15T09:08:42.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MetingLogger.cs",
+              "DocumentMoniker": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Logging\\MetingLogger.cs",
+              "RelativeDocumentMoniker": "WeerEventsApi\\Logging\\MetingLogger.cs",
+              "ToolTip": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Logging\\MetingLogger.cs",
+              "RelativeToolTip": "WeerEventsApi\\Logging\\MetingLogger.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:41:23.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IWeerStation.cs",
+              "DocumentMoniker": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Stations\\IWeerStation.cs",
+              "RelativeDocumentMoniker": "WeerEventsApi\\Stations\\IWeerStation.cs",
+              "ToolTip": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Stations\\IWeerStation.cs",
+              "RelativeToolTip": "WeerEventsApi\\Stations\\IWeerStation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:42:10.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MetingLoggerFactory.cs",
+              "DocumentMoniker": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Logging\\Factories\\MetingLoggerFactory.cs",
+              "RelativeDocumentMoniker": "WeerEventsApi\\Logging\\Factories\\MetingLoggerFactory.cs",
+              "ToolTip": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Logging\\Factories\\MetingLoggerFactory.cs",
+              "RelativeToolTip": "WeerEventsApi\\Logging\\Factories\\MetingLoggerFactory.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:38:28.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IMetingLogger.cs",
+              "DocumentMoniker": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Logging\\IMetingLogger.cs",
+              "RelativeDocumentMoniker": "WeerEventsApi\\Logging\\IMetingLogger.cs",
+              "ToolTip": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Logging\\IMetingLogger.cs",
+              "RelativeToolTip": "WeerEventsApi\\Logging\\IMetingLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:15:34.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MetingDto.cs",
+              "DocumentMoniker": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Facade\\Dto\\MetingDto.cs",
+              "RelativeDocumentMoniker": "WeerEventsApi\\Facade\\Dto\\MetingDto.cs",
+              "ToolTip": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Facade\\Dto\\MetingDto.cs",
+              "RelativeToolTip": "WeerEventsApi\\Facade\\Dto\\MetingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:04:13.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeerBerichtDto.cs",
+              "DocumentMoniker": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Facade\\Dto\\WeerBerichtDto.cs",
+              "RelativeDocumentMoniker": "WeerEventsApi\\Facade\\Dto\\WeerBerichtDto.cs",
+              "ToolTip": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Facade\\Dto\\WeerBerichtDto.cs",
+              "RelativeToolTip": "WeerEventsApi\\Facade\\Dto\\WeerBerichtDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:41:04.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeerStationDto.cs",
+              "DocumentMoniker": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Facade\\Dto\\WeerStationDto.cs",
+              "RelativeDocumentMoniker": "WeerEventsApi\\Facade\\Dto\\WeerStationDto.cs",
+              "ToolTip": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Facade\\Dto\\WeerStationDto.cs",
+              "RelativeToolTip": "WeerEventsApi\\Facade\\Dto\\WeerStationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:07:09.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WeerstationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Stations\\Factories\\WeerstationFactory.cs",
+              "RelativeDocumentMoniker": "WeerEventsApi\\Stations\\Factories\\WeerstationFactory.cs",
+              "ToolTip": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Stations\\Factories\\WeerstationFactory.cs",
+              "RelativeToolTip": "WeerEventsApi\\Stations\\Factories\\WeerstationFactory.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:59:19.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Meting.cs",
+              "DocumentMoniker": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Metingen\\Meting.cs",
+              "RelativeDocumentMoniker": "WeerEventsApi\\Metingen\\Meting.cs",
+              "ToolTip": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Metingen\\Meting.cs",
+              "RelativeToolTip": "WeerEventsApi\\Metingen\\Meting.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T09:00:45.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WeerEventsApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\appsettings.json",
+              "RelativeToolTip": "WeerEventsApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T07:55:15.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Weerbericht.cs",
+              "DocumentMoniker": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Weerberichten\\Weerbericht.cs",
+              "RelativeDocumentMoniker": "WeerEventsApi\\Weerberichten\\Weerbericht.cs",
+              "ToolTip": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Weerberichten\\Weerbericht.cs",
+              "RelativeToolTip": "WeerEventsApi\\Weerberichten\\Weerbericht.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:27:42.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Stad.cs",
+              "DocumentMoniker": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Steden\\Stad.cs",
+              "RelativeDocumentMoniker": "WeerEventsApi\\Steden\\Stad.cs",
+              "ToolTip": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Steden\\Stad.cs",
+              "RelativeToolTip": "WeerEventsApi\\Steden\\Stad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:08:50.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Eenheid.cs",
+              "DocumentMoniker": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Metingen\\Eenheid.cs",
+              "RelativeDocumentMoniker": "WeerEventsApi\\Metingen\\Eenheid.cs",
+              "ToolTip": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\Metingen\\Eenheid.cs",
+              "RelativeToolTip": "WeerEventsApi\\Metingen\\Eenheid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:32:14.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WeerEventsApi.csproj",
+              "DocumentMoniker": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\WeerEventsApi.csproj",
+              "RelativeDocumentMoniker": "WeerEventsApi\\WeerEventsApi.csproj",
+              "ToolTip": "C:\\Users\\coppe\\Downloads\\WeerStart\\WeerStart\\WeerEventsApi\\WeerEventsApi.csproj",
+              "RelativeToolTip": "WeerEventsApi\\WeerEventsApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-18T08:58:17.924Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

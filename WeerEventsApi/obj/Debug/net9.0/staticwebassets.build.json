@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "IuBcYWeK5rJ3u/ZXY4TCeXWOJCYvmEQJQ+Bf70Ju+EM=",
+  "Source": "WeerEventsApi",
+  "BasePath": "_content/WeerEventsApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
