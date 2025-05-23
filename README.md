@@ -1,3 +1,4 @@
+# Had problemen met de git, dus heb het handmatig moeten toevoegen aan de repository, mijn excuses als er iets fout is gegaan.
 # WeerEventsApi
 
 **Simuleert en logt metingen van weerstations via een REST API.**
