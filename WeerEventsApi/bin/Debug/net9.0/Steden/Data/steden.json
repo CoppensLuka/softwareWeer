@@ -1,0 +1,17 @@
+[
+  {
+    "Naam": "Gent",
+    "Beschrijving": "Grootste stad van Oost-Vlaanderen",
+    "GekendVoor": "Studenten"
+  },
+  {
+    "Naam": "Aalst",
+    "Beschrijving": "Tweede grootste stad van Oost-Vlaanderen",
+    "GekendVoor": "Carnaval"
+  },
+  {
+    "Naam": "Sint-Niklaas",
+    "Beschrijving": "Derde grootste stad van Oost-Vlaanderen",
+    "GekendVoor": "Marktplein"
+  }
+]

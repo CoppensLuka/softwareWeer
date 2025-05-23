@@ -1,0 +1,62 @@
+[
+  {
+    "ContainingType": "WeerEventsApi.Facade.Controllers.ApiController",
+    "Method": "Root",
+    "RelativePath": "",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeerEventsApi.Facade.Controllers.ApiController",
+    "Method": "DoeMeting",
+    "RelativePath": "commands/meting-command",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeerEventsApi.Facade.Controllers.ApiController",
+    "Method": "GetMetingen",
+    "RelativePath": "metingen",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeerEventsApi.Facade.Controllers.ApiController",
+    "Method": "GetSteden",
+    "RelativePath": "steden",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeerEventsApi.Facade.Controllers.ApiController",
+    "Method": "GetWeerbericht",
+    "RelativePath": "weerbericht",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeerEventsApi.Facade.Controllers.ApiController",
+    "Method": "GetWeerstations",
+    "RelativePath": "weerstations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

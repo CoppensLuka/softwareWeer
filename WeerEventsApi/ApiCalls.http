@@ -1,0 +1,22 @@
+### GET
+GET http://localhost:5008/
+
+###
+
+### GET steden
+GET http://localhost:5008/steden
+
+###
+
+//TODO api tests aanvullen
+### Weerstations ophalen
+GET http://localhost:5000/weerstations
+
+### Metingen ophalen
+GET http://localhost:5000/metingen
+
+### Weerbericht ophalen
+GET http://localhost:5000/weerbericht
+
+### Metingen uitvoeren (POST)
+POST http://localhost:5000/commands/meting-command

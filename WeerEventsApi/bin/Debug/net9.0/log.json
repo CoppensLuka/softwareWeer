@@ -1,0 +1,10 @@
+{
+  "Moment": "2025-05-23T11:27:50.3737019+02:00",
+  "Waarde": 5.3,
+  "Eenheid": 1,
+  "Stad": {
+    "Naam": "Sint-Niklaas",
+    "Beschrijving": "Derde grootste stad van Oost-Vlaanderen",
+    "GekendVoor": "Marktplein"
+  }
+}
